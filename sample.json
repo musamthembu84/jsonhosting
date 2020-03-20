@@ -1,0 +1,13 @@
+{
+    "id":"123456789",
+    "source":"Radar",
+    "name":"ClientProductCreated",
+    "version":"1.0",
+    "time":"Mar 19 2020 07:31:45 AM",
+    "data":{
+         "accountNumber":"1100466987540",
+        "idNumber":"7906260155081",
+        "investecId":"7906260155081",
+        "dateOfBirth":"1979/06/26"      
+    }
+}
